@@ -1,4 +1,4 @@
-#this program will calculate if a student has passed taking into account 2 applied tests and presence attendance in class
+#this program will calculate if a student has passed taking into account 2 applied tests and attendance in class
 print("this program will calculate if a student has passed")
 
 student  = input("insert the name of the student: ")
